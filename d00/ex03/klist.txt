@@ -1,0 +1,28 @@
+Server: krbtgt/42.US.ORG@42.US.ORG
+Client: ajorge-d@42.US.ORG
+Ticket etype: aes256-cts-hmac-sha1-96, kvno 1
+Ticket length: 316
+Auth time:  Apr  4 18:48:37 2017
+End time:   Apr  5 04:48:37 2017
+Ticket flags: enc-pa-rep, pre-authent, initial, proxiable, forwardable
+Addresses: addressless
+
+Server: ldap/ldap-proxy.42.us.org@42.US.ORG
+Client: ajorge-d@42.US.ORG
+Ticket etype: aes256-cts-hmac-sha1-96, kvno 9
+Ticket length: 347
+Auth time:  Apr  4 18:48:37 2017
+Start time: Apr  4 18:48:39 2017
+End time:   Apr  5 04:48:37 2017
+Ticket flags: enc-pa-rep, transited-policy-checked, pre-authent, proxiable, forwardable
+Addresses: addressless
+
+Server: host/vgs-fn1.42.us.org@42.US.ORG
+Client: ajorge-d@42.US.ORG
+Ticket etype: aes256-cts-hmac-sha1-96, kvno 2
+Ticket length: 344
+Auth time:  Apr  4 18:48:37 2017
+Start time: Apr  4 19:18:14 2017
+End time:   Apr  5 04:48:37 2017
+Ticket flags: enc-pa-rep, transited-policy-checked, pre-authent, proxiable, forwardable
+Addresses: addressless
